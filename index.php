@@ -35,7 +35,7 @@ foreach ($arraysForTesting as $item) {
 
 /**
  * @param array $data
- * @return array
+ * @return mixed
  */
 function solution(array $data)
 {
